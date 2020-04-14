@@ -1,0 +1,32 @@
+
+nav {
+	font-family: 'Poppins', sans-serif;
+	background-color: #F2BF3A;
+}
+
+h1 {
+	margin-top: 25%;
+	padding: 5%;
+	padding-left: 10%;
+	padding-right: 10%;
+}
+
+.main-image {
+	padding: 5%;
+}
+
+.btn {
+	background-color: #F2BF3A;
+	border: 1px solid #F2BF3A;
+	margin: 5%;
+	text-align: center;
+	color: #FFFFFF;
+}
+
+.btn:hover {
+	background-color: #F2BF3A;
+	border: 4px solid #F2BF3A;
+	color: #FFFFFF;
+}
+
+
